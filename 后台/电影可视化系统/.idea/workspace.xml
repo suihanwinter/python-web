@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ef2dd58-e52c-48df-a0c1-773936208e5d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XtPuvFZjhsqxsQrO7XDF3Y9Uyy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\电影可视化系统" />
+      <recent name="D:\电影可视化系统\get_numbers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.demo">
+    <configuration name="creat_db" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="电影可视化系统" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/creat_db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataq" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="电影可视化系统" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataq.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="电影可视化系统" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="电影可视化系统" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="page1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="电影可视化系统" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/miaoyan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/miaoyan/page1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.get_data" />
+        <item itemvalue="Python.dataq" />
+        <item itemvalue="Python.creat_db" />
+        <item itemvalue="Python.page1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ef2dd58-e52c-48df-a0c1-773936208e5d" name="Default Changelist" comment="" />
+      <created>1581862643856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581862643856</updated>
+      <workItem from="1581862649048" duration="7844000" />
+      <workItem from="1581907799681" duration="2060000" />
+      <workItem from="1581911533493" duration="19128000" />
+      <workItem from="1582026294328" duration="7394000" />
+      <workItem from="1582099062594" duration="1939000" />
+      <workItem from="1582185550495" duration="10290000" />
+      <workItem from="1582259107303" duration="872000" />
+      <workItem from="1582425468865" duration="3960000" />
+      <workItem from="1582459930523" duration="1216000" />
+      <workItem from="1582700753578" duration="6461000" />
+      <workItem from="1582710444533" duration="1391000" />
+      <workItem from="1583384229516" duration="21000" />
+      <workItem from="1583462489731" duration="30000" />
+      <workItem from="1584446189451" duration="6137000" />
+      <workItem from="1584454393409" duration="3044000" />
+      <workItem from="1584510837667" duration="10410000" />
+      <workItem from="1584599103736" duration="20000" />
+      <workItem from="1584599137344" duration="94000" />
+      <workItem from="1584599250443" duration="298000" />
+      <workItem from="1584599743383" duration="1552000" />
+      <workItem from="1584602613522" duration="384000" />
+      <workItem from="1584603033884" duration="562000" />
+      <workItem from="1584604732607" duration="2119000" />
+      <workItem from="1584676852450" duration="1055000" />
+      <workItem from="1584687029856" duration="23000" />
+      <workItem from="1584687337217" duration="305000" />
+      <workItem from="1584689952883" duration="954000" />
+      <workItem from="1584756127759" duration="29000" />
+      <workItem from="1584775793038" duration="1312000" />
+      <workItem from="1584781385438" duration="1458000" />
+      <workItem from="1584783417100" duration="730000" />
+      <workItem from="1584787191116" duration="1513000" />
+      <workItem from="1584790580352" duration="908000" />
+      <workItem from="1584927191064" duration="21000" />
+      <workItem from="1584928662341" duration="1426000" />
+      <workItem from="1584930500249" duration="927000" />
+      <workItem from="1584952618381" duration="415000" />
+      <workItem from="1584953181662" duration="1803000" />
+      <workItem from="1584959218088" duration="98000" />
+      <workItem from="1585033427080" duration="1155000" />
+      <workItem from="1585037542068" duration="1642000" />
+      <workItem from="1585040597223" duration="1610000" />
+      <workItem from="1585042810461" duration="755000" />
+      <workItem from="1585132494488" duration="803000" />
+      <workItem from="1585193104203" duration="615000" />
+      <workItem from="1585196526657" duration="1196000" />
+      <workItem from="1585298697725" duration="999000" />
+      <workItem from="1586180768112" duration="378000" />
+      <workItem from="1586181756376" duration="253000" />
+      <workItem from="1586255743859" duration="3000" />
+      <workItem from="1586350482351" duration="5000" />
+      <workItem from="1587028675408" duration="3000" />
+      <workItem from="1587804679080" duration="627000" />
+      <workItem from="1587981731568" duration="127000" />
+      <workItem from="1587982259725" duration="985000" />
+      <workItem from="1588042961100" duration="929000" />
+      <workItem from="1589096575587" duration="1529000" />
+      <workItem from="1589259564286" duration="1846000" />
+      <workItem from="1589262475849" duration="632000" />
+      <workItem from="1589442453526" duration="1386000" />
+      <workItem from="1589521344516" duration="1750000" />
+      <workItem from="1589527366656" duration="653000" />
+      <workItem from="1589781900762" duration="1376000" />
+      <workItem from="1589877812205" duration="1523000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1584928695951">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584928695951" />
+    <state width="1493" height="73" key="GridCell.Tab.0.bottom" timestamp="1589269442762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="73" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589269442762" />
+    <state width="1493" height="73" key="GridCell.Tab.0.center" timestamp="1589269442761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="73" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589269442761" />
+    <state width="1493" height="73" key="GridCell.Tab.0.left" timestamp="1589269442761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="73" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589269442761" />
+    <state width="1493" height="73" key="GridCell.Tab.0.right" timestamp="1589269442762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="73" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589269442762" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1584446220647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584446220647" />
+    <state x="479" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1589877813547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="479" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589877813547" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$page1.coverage" NAME="page1 Coverage Results" MODIFIED="1581930909599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/miaoyan" />
+    <SUITE FILE_PATH="coverage/$dataq.coverage" NAME="dataq Coverage Results" MODIFIED="1584781788840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$creat_db.coverage" NAME="creat_db Coverage Results" MODIFIED="1584605567520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$demo.coverage" NAME="demo Coverage Results" MODIFIED="1589878074022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$pytest_in_font_py.coverage" NAME="pytest in font.py Coverage Results" MODIFIED="1581908961352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$Dialog2.coverage" NAME="Dialog2 Coverage Results" MODIFIED="1581929234836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/miaoyan" />
+    <SUITE FILE_PATH="coverage/$Mine.coverage" NAME="Mine Coverage Results" MODIFIED="1581928900590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/miaoyan" />
+    <SUITE FILE_PATH="coverage/$Dialog1.coverage" NAME="Dialog1 Coverage Results" MODIFIED="1581929849326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/miaoyan" />
+    <SUITE FILE_PATH="coverage/$pytest_for_font_test.coverage" NAME="pytest for font.test Coverage Results" MODIFIED="1581908986302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$get_data.coverage" NAME="get_data Coverage Results" MODIFIED="1587981769475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
