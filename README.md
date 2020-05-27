@@ -5,3 +5,4 @@ Python3.7的开发环境，已安装pycharm和anaconda，mysql和hbuilder。
 Navicat运行sql文件导入数据，更改好后端文件相关的数据库配置改成自己的。
 运行demo.py，启动web服务。
 启动mysql数据库，将前端文件导入hbuilder，主页面点击在游览器运行即可
+![https://github.com/suihanwinter/python-web/blob/master/1.png]
